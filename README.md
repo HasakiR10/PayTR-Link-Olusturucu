@@ -1,10 +1,10 @@
 # PayTR-Link-Olusturucu
 ## 🎉 Öne Çıkan Özellikler:
-Kullanıcı Dostu Arayüz: Basit ve anlaşılır bir tasarıma sahip olan uygulamamız sayesinde, ödeme linklerinizi oluşturmak hiç bu kadar kolay olmamıştı.
-Güvenli ve Hızlı İşlemler: HMACSHA256 şifreleme algoritması ile yüksek güvenlik sağlanmıştır. Ödemelerinizi güvenli bir şekilde alabilirsiniz.
-Esnek Fiyatlandırma: Hem tam sayı hem de ondalık fiyat girişlerini destekler. Müşterileriniz 100 girerse 100 TL olarak, 14.45 girerse 14.45 TL olarak işlem yapılır.
-Taksit Seçenekleri: Maksimum taksit sayısını belirleyebilir ve müşterilerinize esnek ödeme seçenekleri sunabilirsiniz.
-Gelişmiş API Entegrasyonu: PAYTR API entegrasyonu ile sorunsuz ve hızlı ödeme linkleri oluşturun.
+* Kullanıcı Dostu Arayüz: Basit ve anlaşılır bir tasarıma sahip olan uygulamamız sayesinde, ödeme linklerinizi oluşturmak hiç bu kadar kolay olmamıştı.
+* Güvenli ve Hızlı İşlemler: HMACSHA256 şifreleme algoritması ile yüksek güvenlik sağlanmıştır. Ödemelerinizi güvenli bir şekilde alabilirsiniz.
+* Esnek Fiyatlandırma: Hem tam sayı hem de ondalık fiyat girişlerini destekler. Müşterileriniz 100 girerse 100 TL olarak, 14.45 girerse 14.45 TL olarak işlem yapılır.
+* Taksit Seçenekleri: Maksimum taksit sayısını belirleyebilir ve müşterilerinize esnek ödeme seçenekleri sunabilirsiniz.
+* Gelişmiş API Entegrasyonu: PAYTR API entegrasyonu ile sorunsuz ve hızlı ödeme linkleri oluşturun.
 
 
 ##🛠 Teknik Özellikler:
