@@ -1,4 +1,21 @@
-# PayTR-Link-Olusturucu
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT HEAD -->
+<div align="center">
+  <h3 align="center">PayTR Link Oluştucu Programı</h3>
+
+  <p align="center">
+    Sizler için geliştirildi!
+    <br />
+  </p>
+</div>
+
 <!-- Öne Çıkan Özellikler -->
 ## 🎉 Öne Çıkan Özellikler:
 * Kullanıcı Dostu Arayüz: Basit ve anlaşılır bir tasarıma sahip olan uygulamamız sayesinde, ödeme linklerinizi oluşturmak hiç bu kadar kolay olmamıştı.
@@ -19,6 +36,7 @@
 * Bilgilerinizi Girin: Mağaza bilgilerinizi ve ürün detaylarınızı girin.
 * Fiyat Belirleyin: Ürün fiyatını girin. Tam sayı ya da ondalık değer girebilirsiniz.
 * Link Oluşturun: "Link Oluştur" butonuna tıklayın ve ödeme linkiniz hazır!
-
-📷 Ekran Görüntüleri
+* 
+<!-- Ekran Görüntüleri -->
+## 📷 Ekran Görüntüleri
 ![image](https://github.com/HasakiR10/PayTR-Link-Olusturucu/assets/131062959/8c02e98a-e2ec-4617-a271-0b5524e173ec)
