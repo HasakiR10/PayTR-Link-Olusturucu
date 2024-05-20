@@ -28,7 +28,7 @@
 * Bilgilerinizi Girin: Mağaza bilgilerinizi ve ürün detaylarınızı girin.
 * Fiyat Belirleyin: Ürün fiyatını girin. Tam sayı ya da ondalık değer girebilirsiniz.
 * Link Oluşturun: "Link Oluştur" butonuna tıklayın ve ödeme linkiniz hazır!
-* 
+
 <!-- Ekran Görüntüleri -->
 ## 📷 Ekran Görüntüleri
 ![image](https://github.com/HasakiR10/PayTR-Link-Olusturucu/assets/131062959/8c02e98a-e2ec-4617-a271-0b5524e173ec)
